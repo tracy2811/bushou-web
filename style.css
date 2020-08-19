@@ -1,0 +1,57 @@
+body, p {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+header {
+    background-color: #FF7A03;
+    height: 100vh;
+    padding-top: 10vh;
+    box-sizing: border-box;
+    color: #FFF;
+    text-align: center;
+}
+
+footer {
+    color: #FF7A03;
+    text-align: center;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+#logo {
+    height: 35%;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+
+#brand {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 96px;
+    font-weight: 700;
+}
+
+.info {
+    font-size: 36px;
+    font-weight: 600;
+    margin: 0;
+}
+
+nav {
+    margin-top: 96px;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+#learn, #fight {
+    display: inline-block;
+}
+
+#learn {
+    margin-right: 50px;
+}
+
+#fight {
+    margin-left: 50px;
+}
